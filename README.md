@@ -1,6 +1,6 @@
 #### UPDATE : REPLIT ADDED SO THERES NO NEED OF TERMUX🔥
 
-#### NB : THERE ARE SLIGHT CHANGES IN THE DEPLOYING METHOD COMPARING WITH COMMON ASEENA BOT . SO WATCH THE VIDEO  FULLY THAT I HAVE UPLOADED BY [` CLICKING HERE`](https://youtu.be/vt9TbOuyhgI) OR ELSE MOST PROBABLY YOU WILL GET ERROR 
+#### NB : THERE ARE SLIGHT CHANGES IN THE DEPLOYING METHOD COMPARING WITH COMMON ASEENA BOT . SO WATCH THE VIDEO  FULLY THAT I HAVE UPLOADED BY [` CLICKING HERE`](https://youtube.com/channel/UC1xeWinx8gD_K-5_KfDDB6A) OR ELSE MOST PROBABLY YOU WILL GET ERROR 
 
 
 
@@ -124,7 +124,7 @@ My Whatsapp Group👇
  <a href="https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA)
+* [`My Youtube Channel`](https://youtube.com/channel/UC1xeWinx8gD_K-5_KfDDB6A)
 
 ### ⚠ Warning ⚠
 
